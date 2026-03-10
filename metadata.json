@@ -1,0 +1,7 @@
+{
+  "name": "Copy of E-Wedding Invitation NhaGai 2",
+  "description": "A beautiful, mobile-optimized Vietnamese wedding invitation with photo albums, event details, and RSVP functionality. Featuring a classic red and white theme.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
