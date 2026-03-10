@@ -47,7 +47,7 @@ export const DEFAULT_WEDDING_DATA: WeddingData = {
   bankBride: {
     bankName: "Ngân hàng Vietinbank",
     accountNumber: "0326846441",
-    accountHolder: "HỒ THỊ NGỌC NÊN"
+    accountHolder: "HỒ THỊ NÊN"
   }
 };
 
